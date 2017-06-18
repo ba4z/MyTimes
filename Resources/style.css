@@ -48,18 +48,22 @@ header {
 }
 
 .large {
+  padding-riht: 30px;
   display: flex;
   width: 630px;
   flex-flow: column;
 }
 
 .medium {
+  padding-left: 30px;
+  padding-right: 30px;
   display: flex;
   width:300px;
   flex-flow: column;
 }
 
 .small {
+  padding-left: 30px;
   display: flex;
   width: 240px;
   flex-flow: column;
