@@ -52,6 +52,13 @@ header {
   display: flex;
   width: 630px;
   flex-flow: column;
+  position: relative;
+}
+
+.large h1:first-of-type {
+  padding:5px 0 0 20px;
+  position: absolute;
+  color:white;
 }
 
 .medium {
